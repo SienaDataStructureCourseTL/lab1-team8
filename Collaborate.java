@@ -7,7 +7,7 @@
  * 1) James Hughes
  *
  *
- * 2) replace with another group member's name
+ * 2) Daniel Graham
  *
  *
  * 3) 3rd member if a group of 3 only
@@ -18,7 +18,7 @@ public class Collaborate
 {
 
     public static void main(String args[]) {
-     
+        System.out.println("Daniel's printout");
         System.out.println("If one modifies above this line...");
         System.out.println("James' Print");
         System.out.println("And another modifies between the previous and this...");
