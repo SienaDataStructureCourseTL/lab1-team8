@@ -99,6 +99,7 @@ public class DriverPoolStudent
                 p.addEntry(day, hour, name, amount);
                 break;
             }
+            System.out.println("Already taken, try again.\n");
         }
         
         System.out.println("\n" + p);
