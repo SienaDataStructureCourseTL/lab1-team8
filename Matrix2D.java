@@ -137,7 +137,7 @@ public class Matrix2D
             return false;
         }
 
-           for (int row = 0; row < data.length; row++)
+        for (int row = 0; row < data.length; row++)
         {
             for (int col = 0; col < data.length; col++)
             {
